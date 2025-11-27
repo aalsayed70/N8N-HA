@@ -1,0 +1,11 @@
+torch
+torchaudio
+librosa
+soundfile
+sounddevice
+numpy
+pandas
+scikit-learn
+onnx
+onnxruntime
+scipy
